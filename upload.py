@@ -4,7 +4,7 @@ import os
 STUDY_ID = "MlAhgrv3"
 TOKEN = os.environ["TOKEN"]
 PGN_PATH = "caro.pgn"
-MAX_CHAPTERS = 63
+MAX_CHAPTERS = 63  # not 64 since 1 chapter already exists
 
 def split_pgns(pgn_text):
     games = []
@@ -30,6 +30,8 @@ def upload_chapter(pgn, index):
     title = get_title(pgn)
     data = {"name": title, "pgn": pgn}
     res = requests.post(url, headers=headers, data=data)
+    if res.status_code != 200:
+        print(f"Error {res.status_code}: {res.text}")
     return res.status_code, title
 
 def main():
