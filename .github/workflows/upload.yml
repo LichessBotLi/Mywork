@@ -6,20 +6,20 @@ on:
 jobs:
   upload:
     runs-on: ubuntu-latest
-    env:
-      TOKEN: ${{ secrets.TOKEN }}
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install python-chess requests
 
-      - name: Run upload script
+      - name: Upload PGNs to Study
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
         run: python -u upload.py
