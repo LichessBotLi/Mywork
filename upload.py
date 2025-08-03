@@ -4,7 +4,7 @@ import os
 STUDY_ID = "MlAhgrv3"
 TOKEN = os.environ["TOKEN"]
 PGN_PATH = "caro.pgn"
-MAX_CHAPTERS = 64
+MAX_CHAPTERS = 63
 
 def split_pgns(pgn_text):
     games = []
