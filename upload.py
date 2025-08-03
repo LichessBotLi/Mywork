@@ -1,56 +1,63 @@
 import requests
 import os
+import chess.pgn
+from io import StringIO
 
+TOKEN = os.environ['TOKEN']
 STUDY_ID = "MlAhgrv3"
-TOKEN = os.environ["TOKEN"]
-PGN_PATH = "caro.pgn"
-MAX_CHAPTERS = 63  # not 64 since 1 chapter already exists
+PGN_FILE = "caro.pgn"
+MAX_CHAPTERS = 63
 
-def split_pgns(pgn_text):
+headers = {
+    "Authorization": f"Bearer {TOKEN}",
+    "Content-Type": "application/x-chess-pgn"
+}
+
+def get_existing_chapter_count():
+    url = f"https://lichess.org/api/study/{STUDY_ID}"
+    res = requests.get(url, headers={"Authorization": f"Bearer {TOKEN}"})
+    if res.status_code == 200:
+        return len(res.json().get("chapters", []))
+    else:
+        print("Error fetching study details")
+        return 0
+
+def split_pgn_games(pgn_text):
     games = []
-    current = []
-    for line in pgn_text.splitlines():
-        if line.strip().startswith("[Event") and current:
-            games.append("\n".join(current))
-            current = []
-        current.append(line)
-    if current:
-        games.append("\n".join(current))
+    while True:
+        game = chess.pgn.read_game(StringIO(pgn_text))
+        if game is None:
+            break
+        games.append(game)
+        pgn_text = pgn_text[pgn_text.find("1. ", pgn_text.find("1. ") + 1):] if "1. " in pgn_text else ""
     return games
 
-def get_title(pgn):
-    for line in pgn.splitlines():
-        if line.startswith("[Event "):
-            return line.replace("[Event ", "").strip('[]"')
-    return "Untitled"
+with open(PGN_FILE, "r", encoding="utf-8") as f:
+    pgn_text = f.read()
 
-def upload_chapter(pgn, index):
-    url = f"https://lichess.org/api/study/{STUDY_ID}/chapter"
-    headers = {"Authorization": f"Bearer {TOKEN}"}
-    title = get_title(pgn)
-    data = {"name": title, "pgn": pgn}
-    res = requests.post(url, headers=headers, data=data)
-    if res.status_code != 200:
-        print(f"Error {res.status_code}: {res.text}")
-    return res.status_code, title
+games = split_pgn_games(pgn_text)
+existing = get_existing_chapter_count()
+available = MAX_CHAPTERS - existing
 
-def main():
-    with open(PGN_PATH, encoding="utf-8") as f:
-        pgn = f.read()
-
-    games = split_pgns(pgn)
-
-    for i, game in enumerate(games[:MAX_CHAPTERS]):
-        code, title = upload_chapter(game, i)
-        if code == 200:
-            print(f"Chapter {i+1} added: {title}")
-        else:
-            print(f"Failed at chapter {i+1}")
-            exit(1)
-
-    if len(games) > MAX_CHAPTERS:
+for i, game in enumerate(games[:available]):
+    title = game.headers.get("Event", f"Game {i+1}")
+    game_str = str(game)
+    data = {
+        "pgn": game_str,
+        "studyChapter": {
+            "name": title,
+            "orientation": "white"
+        }
+    }
+    res = requests.post(
+        f"https://lichess.org/api/study/{STUDY_ID}/chapter",
+        headers=headers,
+        data=game_str.encode("utf-8")
+    )
+    if res.status_code == 201:
+        print(f"Uploaded chapter {i+1}: {title}")
+    else:
+        print(f"Failed to upload chapter {i+1}")
         print("Maximum chapters done")
-        print(f"Last PGN title: {get_title(games[MAX_CHAPTERS - 1])}")
-
-if __name__ == "__main__":
-    main()
+        print(f"Last PGN title: {title}")
+        break
