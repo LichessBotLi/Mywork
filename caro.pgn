@@ -1,0 +1,310 @@
+[Event "The Caro-Kann Starter Kit"]
+[Site "Introduction"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Introduction"]
+[Black "1. Main Level"]
+[Result "*"]
+
+{ Welcome to the wonderful world of the Caro-Kann. It is one of the 'Big four' defences against 1. e4 (the others being the French, Sicilian and ...e5), but until recently has always been rather in their shadow. As sharper variations get refuted, or analysed out to a draw though, the Caro has emerged more and more as a serious winning attempt for Black. Let's look at the starting moves. White starts by staking a direct claim in the centre. Left to his own devices, he will consolidate it with 2. d4 (and perhaps c4 and f4 as well). Black can try conceding the centre and nibbling away at it hypermodern style, but if he wants to contest it head on he has to challenge at least one of these pawns. } 1. e4 c6 2. d4 d5 { And after d5, White has a choice: He can support the centre with f3, but this is awkward. He can support the e- pawn with a knight on c3 or d2 , but then Black exchanges and gains time on the knight on e4 . With the centre open, his light square bishop has a relatively easy time developing, and although White gets to tickle it for a few moves it usually ends up swapped off for its valuable counterpart. Black then puts his pawns on light squares, and all his pieces are good. Most challenging, these days is for White to respond with e4 - e5. Black then has two major attempts - he can immediately attack the centre with c6- c5, or he can develop the bishop with Bf5 and hope to follow up with e6, knights somewhere, and eventually c5 and/or f6 breaks. Both approaches are viable. The closed Bf5 lines are thematically richer though, and more theory intense. They are traditionally regarded as the 'main' lines, and the ones I have chosen to examine here. Black's bishop develops quickly to f5 , but it is far from 'safe'. White tries all sorts of different means to try to exploit it as exposed. Meanwhile, he can try to cramp Black, and eventually attack him on the kingside (with h4 and g4 or f4, g4 and f5), the queenside (with a4) or in the centre (with c4, especially once Black has played ...c5 himself). If White doesn't play actively however, and especially if he exchanges his light squared bishop for no good reason, he can find his position lifeless and often drifting into significantly worse. This is particularity common in low level chess, where if anything Black outscores White in this opening. } * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The Short System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Short System"]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 { [%cal Bc8f5,Bc6c5]} 3... Bf5 4. Nf3 e6 5. Be2 { [%cal Bg8e7,Bb8d7,Bh7h6,Bf5h7,Gc2c4,Ge1g1,Gb1d2,Gd2b3]} 5... Nd7 6. O-O h6 { [%cal Bf5h7,Bg7g5]} 7. Nbd2 { [%cal Gd2b3,Gc1d2,Ga1c1,Gc2c4]} 7... Ne7 8. Nb3 g5 9. Ne1 { [%cal Gf2f4][%csl Gc5][%cal Rg5g4,Ge1d3]} 9... Qc7 10. Nd3 { [%csl Rc5][%cal Gd3c5,Gb3c5]} 10... b6 11. Be3 Bg7 12. f4 c5 13. dxc5 gxf4 14. cxb6 axb6 15. Bxf4 Ng6 { [%cal Bg6f4]} 16. Bg3 O-O 17. Nd4 { [%cal Gd4f5]} 17... Be4 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Tal variation with 5. c4 and 7. Bg5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tal variation with 5. c4 and 7. Bg5"]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 { [%cal Gg2g4,Gg4f5]} 4... h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 dxc4 { [%cal Gb8d7,Gd7b6,Gb6d5]} 8. Bxc4 Nd7 { [%cal Gf7f6,Gd7b6,Gb6d5]} 9. Nge2 f6 $1 10. exf6 gxf6 11. Be3 Nb6 { [%cal Gb6c4]} 12. Bb3 Nbd5 13. Ng3 $2 Nxe3 14. fxe3 Bg4 15. Qd2 f5 { White can't take on e6 . Black will follow up with Nd5, and probably Bd6, Qe7 and O-O-O. He appears to be seriously better already. } 16. Bxe6 $2 Qd6 { forks two pieces } * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Tal variation with 5. c4 and 7. Nge2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tal variation with 5. c4 and 7. Nge2"]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 { [%cal Gg2g4,Gg4f5]} 4... h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3 { [%cal Gg3f5]} 8... Bg6 9. Bg5 { [%cal Gg5d8]} 9... Qb6 { [%cal Gb6b2,Gb6d4]} 10. Qd2 { [%cal Gb6d4,Gb6b2]} 10... dxc4 11. Bxc4 O-O-O { [%cal Gd8d4]} 12. Na4 { [%cal Ga4b6]} 12... Qc7 { [%cal Gc7e5,Gd8d4,Gd7e5]} 13. Rc1 a6 14. O-O Nxe5 { [%cal Gd8d2]} 15. b3 Ng4 16. Nc5 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The Caveman"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Caveman"]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 { [%cal Gg2g4,Gg4f5]} 4... h5 5. Bg5 { [%cal Gg5d8]} 5... Qb6 6. Bd3 { [%cal Gd3f5,Gb6d4]} 6... Qxd4 { [%cal Gd4a1]} 7. Nf3 { [%cal Gf3d4,Gd3f5]} 7... Qg4 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Dodging Morozevich"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dodging Morozevich"]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 { [%cal Gg2g4,Gg4f5]} 4... h5 5. Bd3 { [%cal Gd3f5,Gf5d3]} 5... Bxd3 6. Qxd3 e6 7. Bg5 { [%cal Gg5d8]} 7... Be7 8. Nf3 Nh6 9. Nc3 { [%cal Gh6f5,Gf5d4]} 9... Nf5 10. Ne2 c5 11. dxc5 Qa5+ 12. c3 Qxc5 13. O-O Nc6 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The tactical 4. Nc3."]
+[Date "????.??.??"]
+[Round "?"]
+[White "The tactical 4. Nc3."]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 { [%csl Re4][%cal Gg2g4,Gh2h4,Gh4h5]} 4... e6 5. g4 Bg6 6. Nge2 { [%cal Ge2f4,Gf4g6]} 6... c5 7. h4 { [%cal Gh4h5,Gh5g6]} 7... h5 8. Nf4 { [%cal Gf4g6,Gf4h5]} 8... Bh7 9. Nxh5 Nc6 { [%cal Gc5d4,Gc6d4]} 10. dxc5 Bxc5 11. Bb5 Qc7 12. Bxc6+ Qxc6 13. Qf3 O-O-O 14. Nxg7 Ne7 { [%csl Re5,Rg4,Rc2,Rh4]} * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site ""g" is for "gamble."]
+[Date "????.??.??"]
+[Round "?"]
+[White ""g" is for "gamble."]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Be4 5. f3 Bg6 6. h4 h5 7. e6 Qd6 8. exf7+ Bxf7 9. Ne2 hxg4 10. fxg4 Nd7 11. Bf4 e5 12. dxe5 Nxe5 13. Bxe5 Qxe5 14. Qd4 Qxd4 15. Nxd4 O-O-O * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site ""B" is for "Bad Bishop"."]
+[Date "????.??.??"]
+[Round "?"]
+[White ""B" is for "Bad Bishop"."]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Nf3 Qa5+ 7. c3 Qa6 8. Qxa6 Nxa6 9. O-O c5 10. Be3 Rc8 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "A devious move order"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A devious move order"]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Nd7 6. Nf3 Ne7 7. Be2 h6 { We are back in our line against the Short system. } * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Crime doesn't pay!"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Crime doesn't pay!"]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 { [%cal Ge2g3,Gg3f5]} 4... e6 5. Ng3 Bg6 6. h4 { [%cal Gh4h5]} 6... h5 7. Be2 { [%cal Gd1h5,Ge2h5,Gg3h5]} 7... c5 { [%cal Gc5d4]} 8. c3 Nc6 { [%cal Gc6d4,Gc5d4]} 9. Bxh5 Bxh5 10. Nxh5 cxd4 11. cxd4 g6 { [%cal Gg6h5,Gh8h5,Gh8h4]} 12. Nf4 Rxh4 { [%cal Gh4h1,Gh1h4,Gc6d4,Gg8e7,Ge7f5,Gf5d4,Gd8h4]White is losing. After 12 moves. Now would be a good time to remind him that the Caro is 'solid but passive'. It may be hard to keep a straight face though. Bearing in mind that he is going to want to punch it. } * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Just say no to horrible, horrible pain."]
+[Date "????.??.??"]
+[Round "?"]
+[White "Just say no to horrible, horrible pain."]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 { [%cal Gg2g4,Gg4f5]} 4... h5 5. Bd3 { [%cal Gf5d3,Gd3f5]} 5... Bxd3 6. Qxd3 e6 7. Bg5 { [%cal Gg5d8]} 7... Qb6 { [%cal Gb6b2]} 8. Nd2 c5 9. c4 Qxb2 10. Rd1 Nc6 11. Ngf3 { [%cal Gg5e8,Gf3e8,Gd3e8,Gd2e8,Gd1e8,Gh1e8][%csl Re8]} 11... Be7 12. O-O Bxg5 13. Nxg5 Nge7 14. cxd5 Qxd4 15. Qf3 { [%cal Gf3f7,Gd1d4,Gd5c6,Gd5e6,Gg5f7][%csl Rf7,Re6,Rc6,Rd4,Re8]} 15... Nxe5 { [%cal Ge5f3,Ge5f7]} 16. Qe2 Kf8 17. Nde4 { [%cal Gd1d4]} 17... Qc4 { [%cal Ge2c4,Gc4e2]} 18. Qb2 { [%cal Gb2b7,Gb2e5,Ge4d6,Gd6c4,Gd6f7]} 18... exd5 19. Nd6 { [%cal Gd6c4,Gd6f7]} 19... Qf4 20. Ndxf7 Nc4 { [%cal Gc4b2,Gb2b7]} 21. Qxb7 Rb8 { [%cal Gb8b7]} 22. Qxa7 Nc6 { [%cal Gc6a7,Ga7c5]} 23. Qxc5+ { [%cal Gc5f8,Gc5d5,Gc5c6,Gd1d5][%csl Rf8,Rb8,Rh8,Rd5]} * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The Short variation:  A guide to the alternatives."]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Short variation:  A guide to the alternatives."]
+[Black "2. The Advance Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. e5 { I have made no secret of the fact that I regard 3. e5 as the critical test of the Caro-Kann, and the Short system as probably the nastiest version for Black to face. But I chose Bf5 lines because they were more historically popular, and very instructive for the Caro as a whole. } 3... Bf5 ( 3... c5 { is a good alternative here, providing you follow up } 4. dxc5 { with } 4... e6 { I couldn't make } ( 4... Nc6 $2 $146 { work and I really don't trust it at all. } ) ) 4. Nf3 { Unpretentious and nasty. } ( 4. h4 { would be the other really critical test, but the line with } 4... h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 { seems to more or less neutralise it. } ) 4... e6 5. Be2 { White keeps his 'good' bishop and relies on his space; he can later break with c4, or (king's knight moves and then) f4/g4/f5. Black can actually have considerable trouble adequately completing his development. } 5... Nd7 { 5... Nd7 has been the most popular here, though in high level play it has been superseded by 5...Ne7. More on this later. or Playable, interesting and respectable, but a lot of concrete stuff to learn, and once again, White scores well in practice. } ( 5... c5 { is sharp and direct here and has always enjoyed a fair following. It can work well if White doesn't know what he's doing. If he does? Not so much. } 6. Be3 { is critical and now Black has two major lines: } 6... cxd4 7. Nxd4 $146 Ne7 $146 8. O-O Nbc6 $146 9. Bb5 a6 10. Bxc6+ Nxc6 $146 11. Nxf5 $146 exf5 ) ( 5... c5 6. Be3 Qb6 { (sharpest) } 7. Nc3 $146 Nc6 $146 { and now } 8. Na4 $146 { , } ( 8. O-O { and } ) ( 8. dxc5 { are all sharp, dangerous and score well for White in practice at all levels. Playable, but lots of theory to learn if you want to make this work and there will be concrete theoretical problems you have to solve. Not something I wanted to recommend, especially in a starter kit! } ) ) ( 5... Ne7 $146 { often just transposes to the main line, but has a major branch, trying to get an improved version of the early c5 lines. } 6. O-O { (Be3 would not be well placed if Black switches back to playing 'normally) } 6... c5 $2 { is met by } 7. c4 { Nc6 and now 8.Na3! or 8.dxc5!? } ) 6. O-O Ne7 { Most common in praxis, though I gave } ( 6... h6 { in the original recommendation. That will usually transpose, and it cuts out lines with } 7. Nh4 $146 { . White could though try to exploit it with } ( 7. b3 Ne7 $146 8. c4 { . This is perhaps more dangerous than I originally thought; in practice, Black has done ok with } 8... Bh7 ( 8... Ng6 $146 { \- whether or not I really trust it is another matter. } ) 9. Nc3 $146 Nf5 $146 { , or } ) ) 7. Nbd2 ( 7. Nh4 $146 { tries to exploit this move order. Black has most commonly meekly retreated with Bg6 , but } 7... c5 8. c3 Be4 9. Nd2 $146 Nc6 $146 { seems pretty decent. } ) 7... h6 { There are alternatives here. People have tried There are also minor lines like or \- these don't really cause White any problems, and he is usually comforatbly better with his normal plan of Nb3, Bd2, Rc1 and c4. But 7... h6 is clearly useful, we should be happy with it. } ( 7... c5 { , and generally been hacked up by } 8. c4 { . This doesn't seem to be a good time for that move. } ) ( 7... Nc8 $146 { would be nice if it worked - Black lets his king's bishop out and hopes to maybe move the knight again to b6 . White can ask some questions with the rare 8\. c4 (or) 8\. b3 , but the most obvious problem is simply } 8. a4 Be7 { (a5 would be weakening) } 9. a5 { +=, and while the bishop on e7 might be happy, the knight on c8 isn't. This was an early approach which is now mostly out of favour. } ) ( 7... Bg6 ) ( 7... Ng6 $146 ) 8. Nb3 ( 8. c3 { does ok, but we should be fine after } 8... Bh7 { or } ( 8... g5 { } ) ) 8... g5 { This is the move that a lot of newcomers to the Caro don't like. It seems to be contrary to the 'safe and solid, if slightly worse' spirit of the opening. But sometimes we just have to 'suck it up' and reconcile ourselves to playing good moves! 8...g5 is the most commonly played move, the computer's favourite, and scores well. It holds the glimmer of an attack on the White king, and clamps down to some extent on White ideas of playing f4, but mostly it is about gaining some much needed space to deal with the kingside log jam. If you look at computer alternatives, you usually find they want to play ...g5 in a few moves anyway. But the move isn't strictly forced - we don't have to play it. Let's see what happens if we don't. and simply aren't up to the task for the same reason as usual. Moves like etc do ok some times, but their only real merit is to get the opponent out of book. If you play this line there is another nasty little thing you have to watch out for: Alternatively, plans with In summary - 8...Bh7 is playable - but it certainly won't encourage you to look forward to meeting the Short variation. Solid but suffering will very much be the order of the day. } ( 8... Bg6 ) ( 8... Ng6 $146 ) ( 8... a6 ) ( 8... Rc8 ) ( 8... Bg4 ) ( 8... Qc7 { is playable, and can be followed up with } 9. Bd2 a5 $2 10. a4 { \- but then it is probably best to play } 10... g5 { anyway. Everyone actually does. } ) ( 8... Nc8 $146 { might not be so bad here. } 9. a4 a5 { has been tried a few times - Artemiev and Akobian have both won games like this recently. Most games have continued } 10. Bd2 { (natural, but not necessarily best) } ( 10. Be3 { may be better than Bd2 . And rather than 11.Rc1?! , White could try the immediate 11\. c4. } ) 10... Be7 11. Rc1 { (I really don't like this one) } 11... O-O { and Black is more or less ok. But I have trust issues. For instance, } ) ( 8... Nc8 $146 9. a4 a5 10. Bd2 Be7 11. Ne1 $2 $146 O-O $2 { (Black has to play c5!) } 12. Bd3 $3 Bxd3 13. Nxd3 $146 { , and with Qg4 (and) f4-f5 (coming Black is already busted.) } ) ( 8... Bh7 $2 { is the 'big' main alternative here. The idea is to play Nf5 or Ng6 , Be7 and hopefully O-O . The trouble is, it also gives White time to do everything he wants. For example, } 9. Bd2 Ng6 $146 { (slightly more popular than Nf5, which runs into eventual g4 hits) and now White has a wide choice - } 10. Rc1 { , } ( 10. c4 { and especially } ) ( 10. g3 { are all annoying. } ) ) ( 8... Bh7 9. a4 { are also good enough for an edge. } ) 9. Ne1 { White tries . } ( 9. a4 { first sometimes. you can block it with } 9... a5 { or simply ignore it with 9... Bg7 (and castle) } ) 9... Qc7 { Note, } ( 9... Bg7 $2 { is badly timed here. We need to keep looking at the c5 square just a little bit longer. } 10. f4 { exploits that error and while it is too early to say that Black is getting hacked up, he is certainly being attacked before he has got his counter play properly organised. } ) 10. Nd3 { So, f4 is now prepared and Nc5 threatened. The immediate However, now Nc5 can be an issue. What do we do about it? } ( 10. f4 { is not so good, as we have } 10... c5 { , leading to Black wins in various recent games including Motylev - Ding, Bologan - Eljanov and Shirov - Nakamura. } ) 10... Ng6 { This is an attractive solution. We simply ignore it. And we intend to go queenside. In the original main line, I gave which also scores pretty decently (better than 50%), but not as well. The problem with If White is feeling more aggressive though there is an interesting struggle ahead. } ( 10... b6 11. Be3 Bg7 ) ( 10... Ng6 $146 { is that White has a forced draw. } 11. Ne1 $146 { threatens 12\. g4 Be4 13. f3 trapping the bishop. Black has no option other than going back with } 11... Ne7 $146 { , after which White plays } 12. Nd3 $146 { again, and Black either reverts to the } 12... b6 { line, or agrees the draw. } ) 11. Be3 O-O-O 12. Ne1 { The engine Leela find the interesting } ( 12. Bg4 { and claims a small White edge. } ) 12... Ne7 { Even with opposite side castling, you still don't want your bishop trapped. } 13. a4 Kb8 { You could make an argument for } ( 13... f6 { , 13...Be4 (or) 13...Bg7 (here.) } ) 14. a5 a6 { This is unclear. Black's pieces can't easily get at White's king at the moment; his plan is to play ...f6. White on the other hand has grabbed some space on the queenside, but it is not exactly clear how he is going to continue his attack either. I suspect Black's position is actually a little easier to play. So, in summary: Don't be scared of g5! It is a good move, and Black scores well with it. It also has another virtue- it is very 'move order proof'. If you choose something else you may have problems if White fiddles with his orders, and end up outside our repertoire. But if you are looking for a respectable alternative, you could investigate 8...Nc8, or one of the early ...c5 systems. Both 5...c5 and 5...Ne7, 6...c5 have good theoretical reputations, if not practical scores. Though you'll have to work. Alternatively there is 3...c5. It has had good coverage in recent books by Houska, Shaw (from the White side) and Fernadez (available here in chessable as it happens). Good luck! } * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Classical Main Line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Classical Main Line"]
+[Black "3. The Classical"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 { [%cal Gh4h5,Gh5g6]} 6... h6 7. Nf3 { [%cal Gf3e5,Ge5g6]} 7... Nd7 { [%cal Gd7e5]} 8. h5 { [%cal Gh5g6]} 8... Bh7 9. Bd3 { [%cal Gh7d3,Gd3h7]} 9... Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Kb1 Qb6 14. Rhe1 O-O 15. Nf5 { [%cal Ge1e7]} 15... exf5 16. Rxe7 Qd8 { [%cal Gd8e7,Gf6e4]} 17. Re2 Ne4 { [%cal Gg2g4]} * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Tricksy Hobitsses"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tricksy Hobitsses"]
+[Black "3. The Classical"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 { [%cal Gg3f5]} 5... Bg6 6. Bc4 e6 7. N1e2 { [%cal Ge2f4,Gf4g6][%csl Rg6]} 7... Bd6 { [%cal Gd6f4,Ge2f4]} 8. h4 { [%cal Gh4h5,Gh5g6]} 8... h6 9. Nf4 { [%cal Gf4g6]} 9... Bxf4 10. Bxf4 Nf6 11. Qe2 { [%cal Ge2e8]} 11... O-O 12. O-O-O Nbd7 13. h5 Bh7 14. Bd3 { [%cal Gh7d3,Gd3h7]} 14... Bxd3 15. Rxd3 Nd5 { [%cal Gd5f4]} 16. Bd2 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Classical "main" Main Line (with 13 ...O-O)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Classical "main" Main Line (with 13 ...O-O)"]
+[Black "3. The Classical"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Kb1 O-O 14. Ne4 c5 15. g4 Nxg4 16. Qe2 Qb6 17. Ne5 Ndxe5 18. dxe5 f5 19. exf6 Nxf6 20. Rdg1 Nxe4 21. Qxe4 Bf6 22. b3 c4 23. Bxh6 cxb3 24. axb3 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Classical Alternative:  4...Nd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Classical Alternative:  4...Nd7"]
+[Black "3. The Classical"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 { [%csl Rf7,Re6]} 5... Ngf6 6. Bd3 e6 7. N1f3 Bd6 8. Qe2 h6 9. Ne4 { [%cal Ge4f6,Ge4d6]} 9... Nxe4 10. Qxe4 Nf6 { [%cal Gf6e4]} 11. Qe2 Qc7 12. Bd2 b6 13. O-O-O Bb7 14. Ne5 O-O-O { [%cal Ge5f7,Gc7f7]} 15. f4 Kb8 16. Kb1 c5 17. dxc5 Bxc5 18. Rhe1 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Classical Line with 4...Nf6 5 Nxf6 gf"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Classical Line with 4...Nf6 5 Nxf6 gf"]
+[Black "3. The Classical"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 { [%cal Gg8g2,Gh8g8,Gc8f5,Gf5g4,Ge7e6]} 6. c3 Bf5 7. Nf3 e6 8. g3 Bd6 9. Bg2 Nd7 10. O-O Qc7 11. Re1 { [%cal Ge1e8]} 11... O-O-O 12. b4 { [%cal Ga2a5,Gb4b5,Gb5b6,Gb5c6,Gd1a4,Ga4a7]} 12... Bg4 13. Qa4 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Classical Line with 4...Nf6 5 Nxf6 ef"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Classical Line with 4...Nf6 5 Nxf6 ef"]
+[Black "3. The Classical"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 { [%cal Ge1e8,Ge8e1]} 6... Bd6 7. Bd3 O-O 8. Qc2 { [%cal Gc2h7]} 8... Re8+ { [%cal Ge7e2]} 9. Ne2 h5 10. Be3 Nd7 11. O-O-O Nf8 12. Kb1 Be6 { [%cal Ge6a2,Gd8a5,Gb7b5,Ga7a5,Gc6c5]} 13. c4 Rc8 { [%cal Gc6c5,Gc5d4,Gc8c2]} * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Classical main Main Line (with 13 ...O-O)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Classical main Main Line (with 13 ...O-O)"]
+[Black "3. The Classical"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 { White will hit the bishop again, but not necessarily with h5... } 7... Nd7 { Played immediately to prevent ♘e5, though allowing it is perfectly ok. } 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 { In the old days Black used to castle queenside and was slightly worse. These days going kingside is much more popular. } 13. Kb1 O-O { Rather than 'our' ♕b6, Black more often plays the simple 13... O-O. Perfectly respectable, but makes White's play a lot easier in my opinion. Let's see a sample line. White frees his g- pawn } 14. Ne4 { Now the most common move is Instead, White may be a little better here. There are plenty of deviations along the way, but most of them don't score well for Black. } 14... c5 ( 14... Nxe4 $146 { , after which White really does score well. Play then usually proceeds } 15. Qxe4 Nf6 $146 16. Qe2 Qd5 { , and Black is more or less ok if White continues } 17. Ne5 $146 Qe4 { trying to swap the queens off. } ) ( 14... Nxe4 $146 15. Qxe4 Nf6 $146 16. Qe2 Qd5 17. Be3 Qb5 18. c4 { (Or Rd3) keeps them on, and after } 18... Qf5+ { the main line is the rather odd looking } 19. Ka1 c5 20. Nh4 $146 Qh7 $2 21. d5 { . } ) 15. g4 Nxg4 { Not really a pawn Black wants to take, but allowing g5 is even nastier. Now } 16. Qe2 ( 16. Rhg1 f5 17. Qc4 { is unpleasant, but the main line is } ) 16... Qb6 17. Ne5 Ndxe5 18. dxe5 f5 19. exf6 Nxf6 20. Rdg1 Nxe4 21. Qxe4 Bf6 22. b3 c4 23. Bxh6 cxb3 24. axb3 { Black is fine here - especially after when the game seems to be heading towards a draw. But it is clear that White has been making the running. } 24... Qd4 25. Qxd4 Bxd4 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Panov attack with Bb4!"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panov attack with Bb4!"]
+[Black "4. The Panov Attack"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 $1 7. cxd5 Nxd5 { [%cal Gd5c3,Gb4c3]} 8. Bd2 Nc6 9. Bd3 O-O 10. O-O Be7 { [%csl Rb4][%cal Gc6b4,Gb4d3,Gb4c2]} 11. a3 Bf6 { [%csl Rd4]} 12. Qc2 { [%cal Gc2h7]} 12... g6 13. Bh6 { [%cal Gh6f8]} 13... Bg7 14. Bxg7 Kxg7 { A fairly typical IQ position. In a nutshell, White's plan now is 'try to create some weakness somewhere' (he doesn't have to attack the king, while Black's is 'defend solidly and gradually try to swap things off'. White may have a small advantage, but no more than his typical one.) } * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The tricky Qc2."]
+[Date "????.??.??"]
+[Round "?"]
+[White "The tricky Qc2."]
+[Black "4. The Panov Attack"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 $1 7. cxd5 Nxd5 { [%cal Gd5c3,Gb4c3]} 8. Qc2 Nc6 9. Bd3 h6 10. O-O O-O 11. a3 { [%cal Ga3b4]} 11... Bd6 { [%csl Re5][%cal Gd6e5,Gf3e5,Gf1e1,Ge2e5,Ge1e5]} 12. Re1 { [%cal Gd8b6,Gf8d8]} * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The tricky Qc2 with the sneaky Be2."]
+[Date "????.??.??"]
+[Round "?"]
+[White "The tricky Qc2 with the sneaky Be2."]
+[Black "4. The Panov Attack"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 $1 7. cxd5 Nxd5 { [%cal Gd5c3,Gb4c3]} 8. Qc2 Nc6 9. Be2 { [%cal Gc2e4,Ge2d3,Ge4h4]} 9... Nce7 10. O-O Bd7 11. a3 { [%cal Ga3b4]} 11... Bd6 12. Ne4 { [%cal Ge4d6]} 12... Bc6 13. Ne5 Rc8 { [%cal Gc8c2][%csl Rd6,Rf7,Rd4,Ge5]} * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Pseud's corner:  The Panov endgame"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pseud's corner:  The Panov endgame"]
+[Black "4. The Panov Attack"]
+[Result "*"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nc6 7. d4 Bg4 { [%cal Gg4d1,Gc6d4]} 8. Qb3 { [%cal Gb3b7,Gc3d5,Gb3d5]} 8... Bxf3 9. gxf3 e6 { [%cal Gb3b7,Gc6d4]} 10. Qxb7 Nxd4 11. Bb5+ { [%cal Gb5e8,Gd4b5]} 11... Nxb5 12. Qc6+ { [%cal Gc6e8,Gc6b5]} 12... Ke7 { [%cal Rc6c5][%csl Re7]} 13. Qxb5 Qd7 { [%cal Gd7b5,Gb5d7,Gc3d5]} 14. Nxd5+ Qxd5 { [%cal Gb5d5,Gc5b5]} 15. Bg5+ { [%cal Gg5e7]} 15... f6 { [%cal Gf6g5,Gd5b5,Gb5d5]} 16. Qxd5 exd5 17. Be3 Ke6 18. O-O-O * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Pseud's corner:  7 Bb5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pseud's corner:  7 Bb5"]
+[Black "4. The Panov Attack"]
+[Result "*"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nc6 7. Bb5 e6 8. O-O Be7 9. d4 O-O 10. Re1 Qd6 11. a3 Rd8 12. Bd3 Nf6 { [%cal Gd8d4,Gc6d4,Gf3g5,Gd3h7,Gd1c2,Gd1h5,Ge1e3,Gc1g5][%csl Rg8,Rd4]} 13. Be3 b6 14. Qe2 Bb7 15. Rad1 Rac8 { [%cal Gd8d2,Gc8c2]} 16. Bb1 * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The Exchange variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Exchange variation"]
+[Black "5. The Exchange Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 { [%cal Gg4d1]} 7. Qb3 { [%cal Gb3b7]} 7... Qc8 8. Nd2 e6 9. Ngf3 Be7 10. O-O Bh5 { [%cal Gd3h7,Gh5g6]} 11. Ne5 Nxe5 12. Bxe5 O-O * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Shattered Dreams"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shattered Dreams"]
+[Black "6. The Fantasy Variation"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. f3 { [%cal Gd5e4,Gf3e4]} 3... e6 4. Nc3 Bb4 { [%cal Gd5e4][%csl Re4][%cal Gb4e1,Gd8h4,Gh4e1]} 5. Bf4 { [%cal Gd8h4,Gf4g3,Gh4f2]} 5... Ne7 6. Qd3 b6 { [%cal Gc8a6]} 7. Ne2 Ba6 8. Qe3 O-O 9. O-O-O c5 { [%cal Ge4d5,Gd5e4,Gd4c5,Gc5d4,Gc8c1]} 10. a3 Bxc3 11. Qxc3 Nd7 { [%cal Ga8c8,Gc7c1][%csl Rc1][%cal Gc5d4,Gc8c2,Ga6f1,Ge7d5,Ge7c6]} * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The two knights with d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The two knights with d3"]
+[Black "7. The two knights variation"]
+[Result "*"]
+
+1. e4 c6 2. Nc3 d5 { [%cal Gd5e4]} 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. Bd2 d4 8. Ne2 Qb6 9. O-O-O c5 10. g4 Nc6 11. g5 Nd7 12. Qg3 O-O-O 13. Kb1 Be7 14. Nc1 Qc7 15. Qxc7+ Kxc7 { [%csl Ge5]You may wonder about White's bishop pair and kingside space. Doesn't he have an edge here? Perhaps. But Black's bishop is good and he has a strong e5 square (he's going to want to put his pieces there if possible rather than a pawn). If a few more pieces come off we can start calling this an ending rather than a queenless middlegame, in which case the Black king is better placed than White's (more centralised). Black can also try to play against White's kingside, claiming that while his pawns grant space they may in fact be slightly over extended. Convinced? I'm not even really sure about this line myself. But I can point out the high score it has achieved so far in practice. } * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "The two knights with d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The two knights with d4"]
+[Black "7. The two knights variation"]
+[Result "*"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d4 dxe4 { [%cal Gd8d4]} 7. Qe3 Nbd7 8. Nxe4 Nxe4 9. Qxe4 Nf6 { [%cal Gf6e4]} 10. Qd3 e6 11. Be2 Be7 12. O-O O-O { [%cal Gd8c7,Gf8d8,Gf6d5,Ge7f6,Ga8c8,Gc6c5][%csl Rd4]} * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "King's Indian Attack Main Line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's Indian Attack Main Line"]
+[Black "8. The King's Indian Attack"]
+[Result "*"]
+
+1. e4 c6 2. d3 d5 3. Nd2 { [%cal Gd2e4,Gd5e4]} 3... e5 4. Ngf3 { [%cal Gf3e5]} 4... Bd6 5. g3 Nf6 6. Bg2 O-O 7. O-O Re8 8. Re1 Nbd7 { [%cal Gd7f8,Gf8g6]} 9. c3 a5 { [%cal Ga5a4,Gh7h6,Gd8c7,Gb7b5,Gd7f8,Gf8g6,Gh2h4,Gd2f1,Gf1h2,Gf1e3]This position is pretty well tested, and Black outscores White. It is almost as if he is playing the White side of a Ruy Lopez or Pirc position. The position is relatively static and both sides will probably be making 'small' improving moves - for Black that could include ...a4, ...h6, ...Qc7 etc White's best chance on the other hand is probably to admit that he is slightly worse and equalise with 10 d4. After that Black can play 10...ed 11 Nxd4 and then say Ne5 and he is fine. Not really what White wants to do though. KIA players love their autopilot, and are itching to play h4, Nf1 etc. We should be well placed against this. } * 
+
+[Event "The Caro-Kann Starter Kit"]
+[Site "Not quite Tal - Smyslov"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Not quite Tal - Smyslov"]
+[Black "8. The King's Indian Attack"]
+[Result "*"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. d4 { [%cal Ge4d5,Gd5e4,Ge5d4,Gd4e5][%csl Re8,Re1]} 5... exd4 6. exd5 cxd5 7. Nxd4 Nc6 8. N2f3 Nf6 9. Be2 O-O 10. O-O Re8 { [%cal Ga7a6,Gd6c7,Gd8d6,Gc8g4][%csl Rg1,Rd5]} * 
+
